@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759311919187",
+    "project_id": "send-notification-to-specific",
+    "storage_bucket": "send-notification-to-specific.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759311919187:android:e4f2fc73d56e5cc3fc7ea6",
+        "android_client_info": {
+          "package_name": "com.adintech.sendnotificationtospecificuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759311919187-lvenic281u4t32l5cmp94c3oop1nirql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsFqF_O9tHij_COXoW0zBfs55axwNy7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759311919187-lvenic281u4t32l5cmp94c3oop1nirql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
